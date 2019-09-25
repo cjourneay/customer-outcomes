@@ -1,0 +1,20 @@
+The project was a team exercise. The complete report provides the process and outcomes.
+
+Abstract for the project as follows
+
+The challenge for this coursework was to build models to predict three potential customer outcomes
+from a sample set of data from the CRM of a large mobile telecom provider. The three customer
+outcomes that we need to predict are:
+
+1. Churn – This is the outcome where a customer ceases their relationship with the provider
+(i.e.: the customer does not renew their contract and switches to another provider)
+
+2. Appetency – This is the outcome where a customer shows a propensity to buy a product or
+service
+
+3. Upselling – This the is outcome where a customer purchases additional services over and
+above their current spending (i.e.: newer package, more minutes, more data, etc.)
+
+These outcomes are binary in nature – either a customer churns or does not churn. Our work is
+fundamentally a challenge to build models for classification of customers based on the available
+dataset. 
